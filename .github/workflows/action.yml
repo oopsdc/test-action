@@ -24,6 +24,6 @@ jobs:
           password: ${{secrets.MAIL_PASSWORD}}
           subject: Test
           body: file://result.txt
-          to: oopsdc@qq.com
+          to: oopsdc@qq.com, 1953407108@qq.com
           from: 0opsdc
           content_type: text/html
